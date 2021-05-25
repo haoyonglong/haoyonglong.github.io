@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>在路上</title>
+    <link>https://haoyonglong.github.io/</link>
+    <description>Recent content on 在路上</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://haoyonglong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>首页</title>
+      <link>https://haoyonglong.github.io/posts/</link>
+      <pubDate>Tue, 25 May 2021 16:28:56 +0800</pubDate>
+      
+      <guid>https://haoyonglong.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
